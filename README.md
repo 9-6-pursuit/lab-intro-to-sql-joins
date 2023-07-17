@@ -1,12 +1,6 @@
 # SQL Joins
 
-### Part 1
-
-Finish Regifter, if you haven't
-
-### Part 2
-
-Choose Your Own Learning
+### Choose Your Own Learning
 
 Rate your comfort and choose the matching activity
 
